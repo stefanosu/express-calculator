@@ -1,4 +1,4 @@
-# Express-Calculator
+## Express-Calculator
 
 ## Instructions
 There are four operation values which a user may use: *addition, subtraction, multiplication, and division.*
